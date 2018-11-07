@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.idea
+kafka-msg-agent.iml
+*.iml
+docker/apps/
+logs/
+target/
